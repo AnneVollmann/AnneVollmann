@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mutsel
+- 👋 Hi, I’m Anne Vollmann (@mutsel)
 - 👀 I’m interested in IT, animal welfare, macro photography (i.e. insects), nature protection and much more!
 - 🌱 I’m currently learning web development (HTML, CSS, JavaScript)
 
