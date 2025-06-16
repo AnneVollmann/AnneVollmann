@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Anne Vollmann (@mutsel)
-- 🌱 I’m currently learning web development (HTML, CSS, JavaScript)
+- 👋 Hi, I’m Anne Vollmann
+- 🌱 I am a Frontend-Developer (JavaScript, HTML, CSS)
 
 <!---
 mutsel/mutsel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
